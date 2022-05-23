@@ -1,0 +1,16 @@
+{
+  "name": "web_scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrapin_dynamic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11",
+    "puppeteer": "^14.1.1"
+  }
+}
